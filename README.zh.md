@@ -8,17 +8,6 @@
 
 ---
 
-## 目录
-
-- [通用能力](#通用能力)
-- [前端与 UI/UX](#前端与-uiux)
-- [学术与研究](#学术与研究)
-- [工程方法论](#工程方法论)
-
----
-
-## 通用能力
-
 ### [superpowers](https://github.com/obra/superpowers) · 205k ⭐
 
 跨 8 个平台的 Agentic Skills 框架和软件开发方法论（Claude Code、Codex、Cursor、OpenCode、Gemini、GitHub Copilot 等）。包含从头脑风暴到完成开发分支的 7 步工作流，支持子代理驱动开发和真正的红绿 TDD。
@@ -32,22 +21,6 @@
 | `requesting-code-review` | 分层代码评审，含行为测试（植入真实 Bug，断言标记） |
 | `finishing-a-development-branch` | 干净合并、验证、移除 worktree、删除分支 |
 | `using-git-worktrees` | 检测-委托架构，优先使用原生 harness worktree 系统 |
-
-### [nature-skills](https://github.com/Yuan1z0825/nature-skills) · 11.5k ⭐
-
-符合 *Nature* 期刊标准的学术写作与科研绘图 Skills。每个 Skill 都基于真实的 *Nature* 出版物和官方期刊指南，覆盖从文献检索到发表的完整研究工作流。
-
-| Skill | 描述 |
-|-------|------|
-| `nature-figure` | 出版级 Python/R 绘图工作流，支持 10 种图表类型家族，附带示例 |
-| `nature-polishing` | *Nature* 风格学术润色，12 步工作流包含对冲校准和过度声明检测 |
-| `nature-writing` | 手稿分段起草和论证重构 |
-| `nature-citation` | 严格的 *Nature*/CNS 引文检索，支持 ENW/RIS/Zotero RDF 导出 |
-| `nature-data` | 数据可用性声明、仓库计划和 FAIR 检查 |
-| `nature-reader` | 全文双语 Markdown 阅读器，带源锚点 |
-| `nature-response` | 逐条审稿意见回复信，带行动映射 |
-| `nature-paper2ppt` | 从科研论文生成中文 PPTX 演示文稿 |
-| `nature-academic-search` | 多源文献检索、引文验证和参考文献管理 |
 
 ### [skills](https://github.com/mattpocock/skills) · 104k ⭐
 
@@ -64,39 +37,6 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 | `to-issues` | 将计划/规格/PRD 拆分为可独立领取的 GitHub Issues |
 | `triage` | 状态机驱动的问题分类 |
 | `zoom-out` | 为陌生代码提供系统级上下文 |
-
----
-
-## 前端与 UI/UX
-
-### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
-
-为多个平台和框架构建专业 UI/UX 的 AI 设计智能 Skill。通过 AI 推理引擎自动生成完整的定制设计系统，包含 161 条规则、67 种视觉风格和 161 种配色方案。
-
-| Skill | 描述 |
-|-------|------|
-| `ui-ux-pro-max` | 多领域设计系统生成器 —— 分析需求并在数秒内输出完整的模式 + 风格 + 配色 + 字体 + 反模式 |
-
----
-
-## 学术与研究
-
-### [academic-research-skills](https://github.com/imbad0202/academic-research-skills) · 20.7k ⭐
-
-最全面的 Claude Code 学术研究 Skill 集。从研究到发表的完整流水线，带反幻觉保护、引文验证和风格校准。
-
-| Skill 模块 | 描述 |
-|-----------|------|
-| `deep-research` | 13 个 Agent 的研究系统，7 种模式：完整、快速、系统综述、苏格拉底式、事实核查、文献综述、评审 |
-| `academic-paper` | 12 个 Agent 的论文写作，10 种模式含风格校准和引文管理 |
-| `academic-reviewer` | 7 个 Agent 的同行评审模拟，含校准模式 |
-| `academic-pipeline` | 从研究到最终发表的 10 阶段编排器，在阶段 2.5 和 4.5 设完整性检查点 |
-
-**核心创新：** L3 声明忠实度审计 —— 获取被引来源并验证每条声明与其锚点的一致性，5 类 HIGH-WARN 会阻止未经验证的输出。
-
----
-
-## 工程方法论
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
@@ -126,6 +66,43 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 | `remotion-video-creation` | 程序化视频创建 |
 
 **工具：** 包含 Tkinter 桌面 GUI（`ecc_dashboard.py`）、Rust 控制平面原型（`ecc2/`）和带咨询模式的 CLI 安装器。
+
+### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
+
+为多个平台和框架构建专业 UI/UX 的 AI 设计智能 Skill。通过 AI 推理引擎自动生成完整的定制设计系统，包含 161 条规则、67 种视觉风格和 161 种配色方案。
+
+| Skill | 描述 |
+|-------|------|
+| `ui-ux-pro-max` | 多领域设计系统生成器 —— 分析需求并在数秒内输出完整的模式 + 风格 + 配色 + 字体 + 反模式 |
+
+### [academic-research-skills](https://github.com/imbad0202/academic-research-skills) · 20.7k ⭐
+
+最全面的 Claude Code 学术研究 Skill 集。从研究到发表的完整流水线，带反幻觉保护、引文验证和风格校准。
+
+| Skill 模块 | 描述 |
+|-----------|------|
+| `deep-research` | 13 个 Agent 的研究系统，7 种模式：完整、快速、系统综述、苏格拉底式、事实核查、文献综述、评审 |
+| `academic-paper` | 12 个 Agent 的论文写作，10 种模式含风格校准和引文管理 |
+| `academic-reviewer` | 7 个 Agent 的同行评审模拟，含校准模式 |
+| `academic-pipeline` | 从研究到最终发表的 10 阶段编排器，在阶段 2.5 和 4.5 设完整性检查点 |
+
+**核心创新：** L3 声明忠实度审计 —— 获取被引来源并验证每条声明与其锚点的一致性，5 类 HIGH-WARN 会阻止未经验证的输出。
+
+### [nature-skills](https://github.com/Yuan1z0825/nature-skills) · 11.5k ⭐
+
+符合 *Nature* 期刊标准的学术写作与科研绘图 Skills。每个 Skill 都基于真实的 *Nature* 出版物和官方期刊指南，覆盖从文献检索到发表的完整研究工作流。
+
+| Skill | 描述 |
+|-------|------|
+| `nature-figure` | 出版级 Python/R 绘图工作流，支持 10 种图表类型家族，附带示例 |
+| `nature-polishing` | *Nature* 风格学术润色，12 步工作流包含对冲校准和过度声明检测 |
+| `nature-writing` | 手稿分段起草和论证重构 |
+| `nature-citation` | 严格的 *Nature*/CNS 引文检索，支持 ENW/RIS/Zotero RDF 导出 |
+| `nature-data` | 数据可用性声明、仓库计划和 FAIR 检查 |
+| `nature-reader` | 全文双语 Markdown 阅读器，带源锚点 |
+| `nature-response` | 逐条审稿意见回复信，带行动映射 |
+| `nature-paper2ppt` | 从科研论文生成中文 PPTX 演示文稿 |
+| `nature-academic-search` | 多源文献检索、引文验证和参考文献管理 |
 
 ---
 
