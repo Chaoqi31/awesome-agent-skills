@@ -84,10 +84,10 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 | Skill 模块 | 描述 |
 |-----------|------|
-| `deep-research` | 13 个 Agent 的研究系统，7 种模式：完整、快速、系统综述、苏格拉底式、事实核查、文献综述、评审 |
-| `academic-paper` | 12 个 Agent 的论文写作，10 种模式含风格校准和引文管理 |
-| `academic-reviewer` | 7 个 Agent 的同行评审模拟，含校准模式 |
-| `academic-pipeline` | 从研究到最终发表的 10 阶段编排器，在阶段 2.5 和 4.5 设完整性检查点 |
+| [`deep-research`](https://github.com/imbad0202/academic-research-skills/tree/main/deep-research) | 13 个 Agent 的研究系统，7 种模式：完整、快速、系统综述、苏格拉底式、事实核查、文献综述、评审 |
+| [`academic-paper`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-paper) | 12 个 Agent 的论文写作，10 种模式含风格校准和引文管理 |
+| [`academic-reviewer`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-paper-reviewer) | 7 个 Agent 的同行评审模拟，含校准模式 |
+| [`academic-pipeline`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-pipeline) | 从研究到最终发表的 10 阶段编排器，在阶段 2.5 和 4.5 设完整性检查点 |
 
 **核心创新：** L3 声明忠实度审计 —— 获取被引来源并验证每条声明与其锚点的一致性，5 类 HIGH-WARN 会阻止未经验证的输出。
 

@@ -84,10 +84,10 @@ The most comprehensive academic research skill set for Claude Code. A complete r
 
 | Skill Module | Description |
 |-------------|-------------|
-| `deep-research` | 13-agent research with 7 modes: full, quick, systematic-review, socratic, fact-check, lit-review, review |
-| `academic-paper` | 12-agent paper writing with 10 modes including style calibration and citation management |
-| `academic-reviewer` | 7-agent peer review simulation with calibration mode |
-| `academic-pipeline` | 10-stage orchestrator from research to final publication with integrity gates at stage 2.5 and 4.5 |
+| [`deep-research`](https://github.com/imbad0202/academic-research-skills/tree/main/deep-research) | 13-agent research with 7 modes: full, quick, systematic-review, socratic, fact-check, lit-review, review |
+| [`academic-paper`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-paper) | 12-agent paper writing with 10 modes including style calibration and citation management |
+| [`academic-reviewer`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-paper-reviewer) | 7-agent peer review simulation with calibration mode |
+| [`academic-pipeline`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-pipeline) | 10-stage orchestrator from research to final publication with integrity gates at stage 2.5 and 4.5 |
 
 **Key Innovation:** L3 Claim-Faithfulness Audit — fetches cited sources and verifies every claim against its anchor, with 5 HIGH-WARN classes that gate-refuse unverified output.
 
