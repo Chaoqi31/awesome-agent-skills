@@ -22,7 +22,7 @@ An agentic skills framework and software development methodology that works acro
 | `finishing-a-development-branch` | Clean merge, verify, remove worktree, delete branch |
 | `using-git-worktrees` | Detect-and-defer architecture for native harness worktree systems |
 
-### [skills](https://github.com/mattpocock/skills) · 104k ⭐
+### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
 Matt Pocock's daily-use agent skills for "real engineering — not vibe coding." Small, composable, and model-agnostic. Built around four failure modes: misalignment, verbosity, broken code, and architectural decay.
 

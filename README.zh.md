@@ -22,7 +22,7 @@
 | `finishing-a-development-branch` | 干净合并、验证、移除 worktree、删除分支 |
 | `using-git-worktrees` | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
-### [skills](https://github.com/mattpocock/skills) · 104k ⭐
+### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
 Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围编程"。小巧、可组合、模型无关。围绕四个失败模式构建：需求错位、输出冗长、代码出错、架构腐化。
 
