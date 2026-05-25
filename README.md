@@ -32,6 +32,7 @@ Matt Pocock's daily-use agent skills for "real engineering — not vibe coding."
 |-------|-------------|
 | [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | Disciplined diagnosis loop for hard bugs and performance regressions |
 | [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | Pre-build grilling sessions plus domain model alignment via `CONTEXT.md` |
+| [`grill-me`](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | Get relentlessly interviewed about a plan or design until every branch is resolved |
 | [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | Red-green-refactor TDD, one vertical slice at a time |
 | [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | Find "deepening opportunities" to rescue muddy codebases |
 | [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | One-time repo scaffold — configures issue tracker, triage labels, and docs directory |
