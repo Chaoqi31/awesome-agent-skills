@@ -97,15 +97,15 @@ Nature-standard academic writing and figure generation skills. Each skill is gro
 
 | Skill | Description |
 |-------|-------------|
-| `nature-figure` | Publication-ready Python/R figure workflow with 10 chart-type families and bundled demos |
-| `nature-polishing` | *Nature* style academic prose polishing with 12-step workflow including hedging calibration and overclaim detection |
-| `nature-writing` | Manuscript section drafting and argument restructuring |
-| `nature-citation` | Strict *Nature*/CNS citation retrieval with ENW/RIS/Zotero RDF export |
-| `nature-data` | Data Availability statements, repository plans, and FAIR checks |
-| `nature-reader` | Full-paper bilingual Markdown reader with source anchors |
-| `nature-response` | Point-by-point reviewer response letters with action mapping |
-| `nature-paper2ppt` | Chinese PPTX decks generated from scientific papers |
-| `nature-academic-search` | Multi-source literature search, citation verification, and reference management |
+| [`nature-figure`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure) | Publication-ready Python/R figure workflow with 10 chart-type families and bundled demos |
+| [`nature-polishing`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing) | *Nature* style academic prose polishing with 12-step workflow including hedging calibration and overclaim detection |
+| [`nature-writing`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing) | Manuscript section drafting and argument restructuring |
+| [`nature-citation`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-citation) | Strict *Nature*/CNS citation retrieval with ENW/RIS/Zotero RDF export |
+| [`nature-data`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-data) | Data Availability statements, repository plans, and FAIR checks |
+| [`nature-reader`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader) | Full-paper bilingual Markdown reader with source anchors |
+| [`nature-response`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-response) | Point-by-point reviewer response letters with action mapping |
+| [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | Chinese PPTX decks generated from scientific papers |
+| [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | Multi-source literature search, citation verification, and reference management |
 
 ---
 

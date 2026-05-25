@@ -97,15 +97,15 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 | Skill | 描述 |
 |-------|------|
-| `nature-figure` | 出版级 Python/R 绘图工作流，支持 10 种图表类型家族，附带示例 |
-| `nature-polishing` | *Nature* 风格学术润色，12 步工作流包含对冲校准和过度声明检测 |
-| `nature-writing` | 手稿分段起草和论证重构 |
-| `nature-citation` | 严格的 *Nature*/CNS 引文检索，支持 ENW/RIS/Zotero RDF 导出 |
-| `nature-data` | 数据可用性声明、仓库计划和 FAIR 检查 |
-| `nature-reader` | 全文双语 Markdown 阅读器，带源锚点 |
-| `nature-response` | 逐条审稿意见回复信，带行动映射 |
-| `nature-paper2ppt` | 从科研论文生成中文 PPTX 演示文稿 |
-| `nature-academic-search` | 多源文献检索、引文验证和参考文献管理 |
+| [`nature-figure`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure) | 出版级 Python/R 绘图工作流，支持 10 种图表类型家族，附带示例 |
+| [`nature-polishing`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing) | *Nature* 风格学术润色，12 步工作流包含对冲校准和过度声明检测 |
+| [`nature-writing`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing) | 手稿分段起草和论证重构 |
+| [`nature-citation`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-citation) | 严格的 *Nature*/CNS 引文检索，支持 ENW/RIS/Zotero RDF 导出 |
+| [`nature-data`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-data) | 数据可用性声明、仓库计划和 FAIR 检查 |
+| [`nature-reader`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader) | 全文双语 Markdown 阅读器，带源锚点 |
+| [`nature-response`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-response) | 逐条审稿意见回复信，带行动映射 |
+| [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | 从科研论文生成中文 PPTX 演示文稿 |
+| [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | 多源文献检索、引文验证和参考文献管理 |
 
 ---
 
