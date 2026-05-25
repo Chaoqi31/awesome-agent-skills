@@ -16,13 +16,13 @@
 
 | Skill | 描述 |
 |-------|------|
-| `brainstorming` | 写代码前进行苏格拉底式设计提炼 |
-| `writing-plans` | 将一句话目标拆解为逐步执行计划 |
-| `subagent-driven-development` | 代理自主工作数小时，带检查/评审 |
-| `test-driven-development` | 真正的红绿 TDD，目标质量为"热情但品味欠佳的初级工程师" |
-| `requesting-code-review` | 分层代码评审，含行为测试（植入真实 Bug，断言标记） |
-| `finishing-a-development-branch` | 干净合并、验证、移除 worktree、删除分支 |
-| `using-git-worktrees` | 检测-委托架构，优先使用原生 harness worktree 系统 |
+| [`brainstorming`](https://github.com/obra/superpowers/tree/main/skills/brainstorming) | 写代码前进行苏格拉底式设计提炼 |
+| [`writing-plans`](https://github.com/obra/superpowers/tree/main/skills/writing-plans) | 将一句话目标拆解为逐步执行计划 |
+| [`subagent-driven-development`](https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development) | 代理自主工作数小时，带检查/评审 |
+| [`test-driven-development`](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) | 真正的红绿 TDD，目标质量为"热情但品味欠佳的初级工程师" |
+| [`requesting-code-review`](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) | 分层代码评审，含行为测试（植入真实 Bug，断言标记） |
+| [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | 干净合并、验证、移除 worktree、删除分支 |
+| [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 

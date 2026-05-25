@@ -16,13 +16,13 @@ An agentic skills framework and software development methodology that works acro
 
 | Skill | Description |
 |-------|-------------|
-| `brainstorming` | Socratic design refinement before writing any code |
-| `writing-plans` | Turn a one-line objective into a step-by-step construction plan |
-| `subagent-driven-development` | Agents work autonomously with inspection/review for hours |
-| `test-driven-development` | True red/green TDD targeting "enthusiastic junior engineer" quality |
-| `requesting-code-review` | Tiered code review with behavioral tests (plants real bugs, asserts flags) |
-| `finishing-a-development-branch` | Clean merge, verify, remove worktree, delete branch |
-| `using-git-worktrees` | Detect-and-defer architecture for native harness worktree systems |
+| [`brainstorming`](https://github.com/obra/superpowers/tree/main/skills/brainstorming) | Socratic design refinement before writing any code |
+| [`writing-plans`](https://github.com/obra/superpowers/tree/main/skills/writing-plans) | Turn a one-line objective into a step-by-step construction plan |
+| [`subagent-driven-development`](https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development) | Agents work autonomously with inspection/review for hours |
+| [`test-driven-development`](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) | True red/green TDD targeting "enthusiastic junior engineer" quality |
+| [`requesting-code-review`](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) | Tiered code review with behavioral tests (plants real bugs, asserts flags) |
+| [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Clean merge, verify, remove worktree, delete branch |
+| [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Detect-and-defer architecture for native harness worktree systems |
 
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
