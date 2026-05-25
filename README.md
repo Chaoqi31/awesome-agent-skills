@@ -47,12 +47,12 @@ The agent harness performance optimization system. Not just skills — a complet
 
 | Component | Count | Description |
 |-----------|-------|-------------|
-| Agents | 60 | Specialized subagents for various workflows |
-| Skills | 232 | Workflow definitions covering engineering, media, operations |
-| Rules | 34 | Always-follow guidelines (common + language-specific: TypeScript, Python, Go, Swift, etc.) |
-| Hook Events | 8-15 | Trigger-based automations per harness |
+| [Agents](https://github.com/affaan-m/ecc/tree/main/agents) | 60 | Specialized subagents for various workflows |
+| [Skills](https://github.com/affaan-m/ecc/tree/main/skills) | 232 | Workflow definitions covering engineering, media, operations |
+| [Rules](https://github.com/affaan-m/ecc/tree/main/rules) | 34 | Always-follow guidelines (common + language-specific: TypeScript, Python, Go, Swift, etc.) |
+| [Hook Events](https://github.com/affaan-m/ecc/tree/main/hooks) | 8-15 | Trigger-based automations per harness |
 | MCP Servers | 14 | Pre-configured MCP server configurations |
-| Commands | 75 | Legacy slash-entry shims for backward compatibility |
+| [Commands](https://github.com/affaan-m/ecc/tree/main/commands) | 75 | Legacy slash-entry shims for backward compatibility |
 
 **Notable Skills:**
 

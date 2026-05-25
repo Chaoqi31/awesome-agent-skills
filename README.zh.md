@@ -47,12 +47,12 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 | 组件 | 数量 | 描述 |
 |-----------|-------|-------------|
-| Agents | 60 | 各类工作流的专用子代理 |
-| Skills | 232 | 覆盖工程、媒体、运营的流程定义 |
-| Rules | 34 | 始终遵循的指南（通用 + 语言特定：TypeScript、Python、Go、Swift 等） |
-| Hook Events | 8-15 | 每个 Harness 的触发式自动化 |
+| [Agents](https://github.com/affaan-m/ecc/tree/main/agents) | 60 | 各类工作流的专用子代理 |
+| [Skills](https://github.com/affaan-m/ecc/tree/main/skills) | 232 | 覆盖工程、媒体、运营的流程定义 |
+| [Rules](https://github.com/affaan-m/ecc/tree/main/rules) | 34 | 始终遵循的指南（通用 + 语言特定：TypeScript、Python、Go、Swift 等） |
+| [Hook Events](https://github.com/affaan-m/ecc/tree/main/hooks) | 8-15 | 每个 Harness 的触发式自动化 |
 | MCP Servers | 14 | 预配置的 MCP 服务器配置 |
-| Commands | 75 | 向后兼容的旧版斜杠命令 |
+| [Commands](https://github.com/affaan-m/ecc/tree/main/commands) | 75 | 向后兼容的旧版斜杠命令 |
 
 **代表性 Skills：**
 
