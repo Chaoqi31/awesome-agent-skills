@@ -58,15 +58,15 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 | Skill | 描述 |
 |-------|-------------|
-| `ai-first-engineering` | AI 辅助代码生成团队的运营模式 |
-| `agentic-engineering` | 构建自主 Agent 工作流的模式 |
-| `tdd-workflow` | 适配 Agent 生成代码的测试驱动开发 |
-| `coding-standards` | 跨项目命名、可读性和结构规范 |
-| `architecture-decision-records` | 面向 Agent 辅助架构决策的结构化 ADR 格式 |
-| `codebase-onboarding` | 分析陌生代码库并生成结构化入门指南 |
-| `brand-voice` | 代理生成内容中的一致品牌声音 |
-| `manim-video` | 数学动画生成 |
-| `remotion-video-creation` | 程序化视频创建 |
+| [`ai-first-engineering`](https://github.com/affaan-m/ecc/tree/main/skills/ai-first-engineering) | AI 辅助代码生成团队的运营模式 |
+| [`agentic-engineering`](https://github.com/affaan-m/ecc/tree/main/skills/agentic-engineering) | 构建自主 Agent 工作流的模式 |
+| [`tdd-workflow`](https://github.com/affaan-m/ecc/tree/main/skills/tdd-workflow) | 适配 Agent 生成代码的测试驱动开发 |
+| [`coding-standards`](https://github.com/affaan-m/ecc/tree/main/skills/coding-standards) | 跨项目命名、可读性和结构规范 |
+| [`architecture-decision-records`](https://github.com/affaan-m/ecc/tree/main/skills/architecture-decision-records) | 面向 Agent 辅助架构决策的结构化 ADR 格式 |
+| [`codebase-onboarding`](https://github.com/affaan-m/ecc/tree/main/skills/codebase-onboarding) | 分析陌生代码库并生成结构化入门指南 |
+| [`brand-voice`](https://github.com/affaan-m/ecc/tree/main/skills/brand-voice) | 代理生成内容中的一致品牌声音 |
+| [`manim-video`](https://github.com/affaan-m/ecc/tree/main/skills/manim-video) | 数学动画生成 |
+| [`remotion-video-creation`](https://github.com/affaan-m/ecc/tree/main/skills/remotion-video-creation) | 程序化视频创建 |
 
 **工具：** 包含 Tkinter 桌面 GUI（`ecc_dashboard.py`）、Rust 控制平面原型（`ecc2/`）和带咨询模式的 CLI 安装器。
 

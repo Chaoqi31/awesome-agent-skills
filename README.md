@@ -58,15 +58,15 @@ The agent harness performance optimization system. Not just skills — a complet
 
 | Skill | Description |
 |-------|-------------|
-| `ai-first-engineering` | Operating model for teams shipping with AI-assisted code generation |
-| `agentic-engineering` | Patterns for building autonomous agent workflows |
-| `tdd-workflow` | Test-driven development adapted for agent-generated code |
-| `coding-standards` | Cross-project conventions for naming, readability, and structure |
-| `architecture-decision-records` | Structured ADR format for agent-assisted architecture decisions |
-| `codebase-onboarding` | Analyze unfamiliar codebases and generate structured onboarding guides |
-| `brand-voice` | Consistent brand voice across agent-generated content |
-| `manim-video` | Mathematical animation generation |
-| `remotion-video-creation` | Programmatic video creation |
+| [`ai-first-engineering`](https://github.com/affaan-m/ecc/tree/main/skills/ai-first-engineering) | Operating model for teams shipping with AI-assisted code generation |
+| [`agentic-engineering`](https://github.com/affaan-m/ecc/tree/main/skills/agentic-engineering) | Patterns for building autonomous agent workflows |
+| [`tdd-workflow`](https://github.com/affaan-m/ecc/tree/main/skills/tdd-workflow) | Test-driven development adapted for agent-generated code |
+| [`coding-standards`](https://github.com/affaan-m/ecc/tree/main/skills/coding-standards) | Cross-project conventions for naming, readability, and structure |
+| [`architecture-decision-records`](https://github.com/affaan-m/ecc/tree/main/skills/architecture-decision-records) | Structured ADR format for agent-assisted architecture decisions |
+| [`codebase-onboarding`](https://github.com/affaan-m/ecc/tree/main/skills/codebase-onboarding) | Analyze unfamiliar codebases and generate structured onboarding guides |
+| [`brand-voice`](https://github.com/affaan-m/ecc/tree/main/skills/brand-voice) | Consistent brand voice across agent-generated content |
+| [`manim-video`](https://github.com/affaan-m/ecc/tree/main/skills/manim-video) | Mathematical animation generation |
+| [`remotion-video-creation`](https://github.com/affaan-m/ecc/tree/main/skills/remotion-video-creation) | Programmatic video creation |
 
 **Tools:** Includes a Tkinter desktop GUI (`ecc_dashboard.py`), Rust control plane prototype (`ecc2/`), and CLI installer with consult mode.
 
