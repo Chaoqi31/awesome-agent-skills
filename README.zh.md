@@ -76,7 +76,7 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 | Skill | 描述 |
 |-------|------|
-| `ui-ux-pro-max` | 多领域设计系统生成器 —— 分析需求并在数秒内输出完整的模式 + 风格 + 配色 + 字体 + 反模式 |
+| [`ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/src/ui-ux-pro-max) | 多领域设计系统生成器 —— 分析需求并在数秒内输出完整的模式 + 风格 + 配色 + 字体 + 反模式 |
 
 ### [academic-research-skills](https://github.com/imbad0202/academic-research-skills) · 20.7k ⭐
 

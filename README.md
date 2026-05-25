@@ -76,7 +76,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 
 | Skill | Description |
 |-------|-------------|
-| `ui-ux-pro-max` | Multi-domain design system generator — analyzes requirements and outputs complete pattern + style + colors + typography + anti-patterns in seconds |
+| [`ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/src/ui-ux-pro-max) | Multi-domain design system generator — analyzes requirements and outputs complete pattern + style + colors + typography + anti-patterns in seconds |
 
 ### [academic-research-skills](https://github.com/imbad0202/academic-research-skills) · 20.7k ⭐
 
