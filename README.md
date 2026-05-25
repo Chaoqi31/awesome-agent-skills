@@ -19,15 +19,19 @@ A hand-picked collection of the best community skills for AI coding agents. Each
 
 ## General-Purpose
 
-### [superpowers](https://github.com/obra/superpowers) · 2.1k ⭐
+### [superpowers](https://github.com/obra/superpowers) · 205k ⭐
 
-General-purpose superpowers for daily development workflows. Covers planning, experimentation, and architecture scaffolding.
+An agentic skills framework and software development methodology that works across 8 platforms (Claude Code, Codex, Cursor, OpenCode, Gemini, GitHub Copilot, and more). Features a 7-step workflow from brainstorming to finishing a development branch, with subagent-driven development and true red/green TDD.
 
 | Skill | Description |
 |-------|-------------|
+| `brainstorming` | Socratic design refinement before writing any code |
 | `writing-plans` | Turn a one-line objective into a step-by-step construction plan |
-| `spike` | Throwaway experiments to validate an idea before building |
-| `blueprint` | Architecture decision records and system design scaffolding |
+| `subagent-driven-development` | Agents work autonomously with inspection/review for hours |
+| `test-driven-development` | True red/green TDD targeting "enthusiastic junior engineer" quality |
+| `requesting-code-review` | Tiered code review with behavioral tests (plants real bugs, asserts flags) |
+| `finishing-a-development-branch` | Clean merge, verify, remove worktree, delete branch |
+| `using-git-worktrees` | Detect-and-defer architecture for native harness worktree systems |
 
 ### [nature-skills](https://github.com/Yuan1z0825/nature-skills) · 11.5k ⭐
 
@@ -36,7 +40,7 @@ Nature-standard academic writing and figure generation skills. Each skill is gro
 | Skill | Description |
 |-------|-------------|
 | `nature-figure` | Publication-ready Python/R figure workflow with 10 chart-type families and bundled demos |
-| `nature-polishing` | Academic prose polishing to *Nature* style with 12-step workflow including hedging calibration and overclaim detection |
+| `nature-polishing` | *Nature* style academic prose polishing with 12-step workflow including hedging calibration and overclaim detection |
 | `nature-writing` | Manuscript section drafting and argument restructuring |
 | `nature-citation` | Strict *Nature*/CNS citation retrieval with ENW/RIS/Zotero RDF export |
 | `nature-data` | Data Availability statements, repository plans, and FAIR checks |
@@ -65,13 +69,13 @@ Matt Pocock's daily-use agent skills for "real engineering — not vibe coding."
 
 ## Frontend & UI/UX
 
-### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 1.8k ⭐
+### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
 
-Professional UI/UX design skills for agent-assisted interface development. Comprehensive design system and component generation workflow.
+An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks. Generates complete, tailored design systems automatically through an AI-powered reasoning engine with 161 rules, 67 visual styles, and 161 color palettes.
 
 | Skill | Description |
 |-------|-------------|
-| `ui-ux-pro-max` | End-to-end UI/UX design system with component generation and design token management |
+| `ui-ux-pro-max` | Multi-domain design system generator — analyzes requirements and outputs complete pattern + style + colors + typography + anti-patterns in seconds |
 
 ---
 
@@ -86,7 +90,7 @@ The most comprehensive academic research skill set for Claude Code. A complete r
 | `deep-research` | 13-agent research with 7 modes: full, quick, systematic-review, socratic, fact-check, lit-review, review |
 | `academic-paper` | 12-agent paper writing with 10 modes including style calibration and citation management |
 | `academic-reviewer` | 7-agent peer review simulation with calibration mode |
-| `academic-pipeline` | 10-stage orchestrator from research to final publication |
+| `academic-pipeline` | 10-stage orchestrator from research to final publication with integrity gates at stage 2.5 and 4.5 |
 
 **Key Innovation:** L3 Claim-Faithfulness Audit — fetches cited sources and verifies every claim against its anchor, with 5 HIGH-WARN classes that gate-refuse unverified output.
 
@@ -94,9 +98,20 @@ The most comprehensive academic research skill set for Claude Code. A complete r
 
 ## Engineering Methodology
 
-### [ecc](https://github.com/affaan-m/ecc) · 3.4k ⭐
+### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
-Engineering Competence Center — methodology and process skills for AI-assisted engineering teams. Covers operating models, autonomous loops, and quality assurance.
+The agent harness performance optimization system. Not just skills — a complete operator system covering skills, instincts, memory optimization, continuous learning, security scanning, hooks, agents, rules, MCP configurations, and research-first development. Supports 12+ harnesses including Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot, and more.
+
+| Component | Count | Description |
+|-----------|-------|-------------|
+| Agents | 60 | Specialized subagents for various workflows |
+| Skills | 232 | Workflow definitions covering engineering, media, operations |
+| Rules | 34 | Always-follow guidelines (common + language-specific: TypeScript, Python, Go, Swift, etc.) |
+| Hook Events | 8-15 | Trigger-based automations per harness |
+| MCP Servers | 14 | Pre-configured MCP server configurations |
+| Commands | 75 | Legacy slash-entry shims for backward compatibility |
+
+**Notable Skills:**
 
 | Skill | Description |
 |-------|-------------|
@@ -106,6 +121,11 @@ Engineering Competence Center — methodology and process skills for AI-assisted
 | `coding-standards` | Cross-project conventions for naming, readability, and structure |
 | `architecture-decision-records` | Structured ADR format for agent-assisted architecture decisions |
 | `codebase-onboarding` | Analyze unfamiliar codebases and generate structured onboarding guides |
+| `brand-voice` | Consistent brand voice across agent-generated content |
+| `manim-video` | Mathematical animation generation |
+| `remotion-video-creation` | Programmatic video creation |
+
+**Tools:** Includes a Tkinter desktop GUI (`ecc_dashboard.py`), Rust control plane prototype (`ecc2/`), and CLI installer with consult mode.
 
 ---
 

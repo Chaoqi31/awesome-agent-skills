@@ -19,15 +19,19 @@
 
 ## 通用能力
 
-### [superpowers](https://github.com/obra/superpowers) · 2.1k ⭐
+### [superpowers](https://github.com/obra/superpowers) · 205k ⭐
 
-日常开发工作流的通用 Superpowers，涵盖规划、实验和架构脚手架。
+跨 8 个平台的 Agentic Skills 框架和软件开发方法论（Claude Code、Codex、Cursor、OpenCode、Gemini、GitHub Copilot 等）。包含从头脑风暴到完成开发分支的 7 步工作流，支持子代理驱动开发和真正的红绿 TDD。
 
 | Skill | 描述 |
 |-------|------|
+| `brainstorming` | 写代码前进行苏格拉底式设计提炼 |
 | `writing-plans` | 将一句话目标拆解为逐步执行计划 |
-| `spike` | 在正式开发前进行快速实验验证想法 |
-| `blueprint` | 架构决策记录和系统设计脚手架 |
+| `subagent-driven-development` | 代理自主工作数小时，带检查/评审 |
+| `test-driven-development` | 真正的红绿 TDD，目标质量为"热情但品味欠佳的初级工程师" |
+| `requesting-code-review` | 分层代码评审，含行为测试（植入真实 Bug，断言标记） |
+| `finishing-a-development-branch` | 干净合并、验证、移除 worktree、删除分支 |
+| `using-git-worktrees` | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
 ### [nature-skills](https://github.com/Yuan1z0825/nature-skills) · 11.5k ⭐
 
@@ -65,13 +69,13 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 
 ## 前端与 UI/UX
 
-### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 1.8k ⭐
+### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
 
-面向助手辅助界面开发的专业 UI/UX 设计 Skills。包含完整的设计系统和组件生成工作流。
+为多个平台和框架构建专业 UI/UX 的 AI 设计智能 Skill。通过 AI 推理引擎自动生成完整的定制设计系统，包含 161 条规则、67 种视觉风格和 161 种配色方案。
 
 | Skill | 描述 |
 |-------|------|
-| `ui-ux-pro-max` | 端到端 UI/UX 设计系统，含组件生成和设计令牌管理 |
+| `ui-ux-pro-max` | 多领域设计系统生成器 —— 分析需求并在数秒内输出完整的模式 + 风格 + 配色 + 字体 + 反模式 |
 
 ---
 
@@ -86,7 +90,7 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 | `deep-research` | 13 个 Agent 的研究系统，7 种模式：完整、快速、系统综述、苏格拉底式、事实核查、文献综述、评审 |
 | `academic-paper` | 12 个 Agent 的论文写作，10 种模式含风格校准和引文管理 |
 | `academic-reviewer` | 7 个 Agent 的同行评审模拟，含校准模式 |
-| `academic-pipeline` | 从研究到最终发表的 10 阶段编排器 |
+| `academic-pipeline` | 从研究到最终发表的 10 阶段编排器，在阶段 2.5 和 4.5 设完整性检查点 |
 
 **核心创新：** L3 声明忠实度审计 —— 获取被引来源并验证每条声明与其锚点的一致性，5 类 HIGH-WARN 会阻止未经验证的输出。
 
@@ -94,18 +98,34 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 
 ## 工程方法论
 
-### [ecc](https://github.com/affaan-m/ecc) · 3.4k ⭐
+### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
-Engineering Competence Center —— 面向 AI 辅助工程团队的方法论和流程 Skills。涵盖运营模式、自主循环和质量保障。
+Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操作系统，涵盖 Skills、Instincts、内存优化、持续学习、安全扫描、Hooks、Agents、Rules、MCP 配置和研究优先开发。支持 12+ 个 Harness，包括 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等。
+
+| 组件 | 数量 | 描述 |
+|-----------|-------|-------------|
+| Agents | 60 | 各类工作流的专用子代理 |
+| Skills | 232 | 覆盖工程、媒体、运营的流程定义 |
+| Rules | 34 | 始终遵循的指南（通用 + 语言特定：TypeScript、Python、Go、Swift 等） |
+| Hook Events | 8-15 | 每个 Harness 的触发式自动化 |
+| MCP Servers | 14 | 预配置的 MCP 服务器配置 |
+| Commands | 75 | 向后兼容的旧版斜杠命令 |
+
+**代表性 Skills：**
 
 | Skill | 描述 |
-|-------|------|
+|-------|-------------|
 | `ai-first-engineering` | AI 辅助代码生成团队的运营模式 |
 | `agentic-engineering` | 构建自主 Agent 工作流的模式 |
 | `tdd-workflow` | 适配 Agent 生成代码的测试驱动开发 |
 | `coding-standards` | 跨项目命名、可读性和结构规范 |
 | `architecture-decision-records` | 面向 Agent 辅助架构决策的结构化 ADR 格式 |
 | `codebase-onboarding` | 分析陌生代码库并生成结构化入门指南 |
+| `brand-voice` | 代理生成内容中的一致品牌声音 |
+| `manim-video` | 数学动画生成 |
+| `remotion-video-creation` | 程序化视频创建 |
+
+**工具：** 包含 Tkinter 桌面 GUI（`ecc_dashboard.py`）、Rust 控制平面原型（`ecc2/`）和带咨询模式的 CLI 安装器。
 
 ---
 
