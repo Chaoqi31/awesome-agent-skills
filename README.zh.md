@@ -4,6 +4,8 @@
 
 一份精心筛选的 AI 编程助手 Skills 合集。这里列出的每个仓库都经过实际测试，在真实开发工作流中具有实用价值。
 
+想要更多？浏览完整的 Skills 生态系统：[skills.sh](https://www.skills.sh/) —— 覆盖 20+ 平台的开放 Agent Skills 目录，收录 40 万+ Skills。
+
 [English Version](README.md)
 
 ---

@@ -4,6 +4,8 @@
 
 A hand-picked collection of the best community skills for AI coding agents. Each repository listed here has been tested and selected for its practical value in real-world development workflows.
 
+Looking for more? Browse the full ecosystem at [skills.sh](https://www.skills.sh/) — the open agent skills directory with 400K+ skills across 20+ platforms.
+
 [中文版本](README.zh.md)
 
 ---
