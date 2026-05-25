@@ -30,15 +30,15 @@ Matt Pocock's daily-use agent skills for "real engineering — not vibe coding."
 
 | Skill | Description |
 |-------|-------------|
-| `diagnose` | Disciplined diagnosis loop for hard bugs and performance regressions |
-| `grill-with-docs` | Pre-build grilling sessions plus domain model alignment via `CONTEXT.md` |
-| `tdd` | Red-green-refactor TDD, one vertical slice at a time |
-| `improve-codebase-architecture` | Find "deepening opportunities" to rescue muddy codebases |
-| `setup-matt-pocock-skills` | One-time repo scaffold — configures issue tracker, triage labels, and docs directory |
-| `to-prd` | Synthesize conversation context into PRD, submit as GitHub issue |
-| `to-issues` | Break plans/specs/PRDs into independently-grabbable GitHub issues |
-| `triage` | State-machine-driven issue triage |
-| `zoom-out` | System-level context for unfamiliar code |
+| [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | Disciplined diagnosis loop for hard bugs and performance regressions |
+| [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | Pre-build grilling sessions plus domain model alignment via `CONTEXT.md` |
+| [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | Red-green-refactor TDD, one vertical slice at a time |
+| [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | Find "deepening opportunities" to rescue muddy codebases |
+| [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | One-time repo scaffold — configures issue tracker, triage labels, and docs directory |
+| [`to-prd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) | Synthesize conversation context into PRD, submit as GitHub issue |
+| [`to-issues`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) | Break plans/specs/PRDs into independently-grabbable GitHub issues |
+| [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | State-machine-driven issue triage |
+| [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | System-level context for unfamiliar code |
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 

@@ -30,15 +30,15 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 
 | Skill | 描述 |
 |-------|------|
-| `diagnose` | 针对疑难 Bug 和性能回归的纪律性诊断循环 |
-| `grill-with-docs` | 开发前深度问答 + 通过 `CONTEXT.md` 对齐领域模型 |
-| `tdd` | 红绿重构 TDD，每次一个垂直切片 |
-| `improve-codebase-architecture` | 发现"深化机会"，拯救泥球代码库 |
-| `setup-matt-pocock-skills` | 一次性仓库脚手架 —— 配置问题追踪器、分类标签和文档目录 |
-| `to-prd` | 将对话上下文合成为 PRD，作为 GitHub Issue 提交 |
-| `to-issues` | 将计划/规格/PRD 拆分为可独立领取的 GitHub Issues |
-| `triage` | 状态机驱动的问题分类 |
-| `zoom-out` | 为陌生代码提供系统级上下文 |
+| [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | 针对疑难 Bug 和性能回归的纪律性诊断循环 |
+| [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | 开发前深度问答 + 通过 `CONTEXT.md` 对齐领域模型 |
+| [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | 红绿重构 TDD，每次一个垂直切片 |
+| [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | 发现"深化机会"，拯救泥球代码库 |
+| [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | 一次性仓库脚手架 —— 配置问题追踪器、分类标签和文档目录 |
+| [`to-prd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) | 将对话上下文合成为 PRD，作为 GitHub Issue 提交 |
+| [`to-issues`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) | 将计划/规格/PRD 拆分为可独立领取的 GitHub Issues |
+| [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | 状态机驱动的问题分类 |
+| [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | 为陌生代码提供系统级上下文 |
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
