@@ -24,6 +24,22 @@
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | 干净合并、验证、移除 worktree、删除分支 |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
+### [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 50.9k ⭐
+
+最受欢迎的 Spec 框架。面向 AI 编程助手的 Spec-Driven Development（SDD）。轻量、迭代、流畅 —— 在写任何代码前先对齐需求。通过斜杠命令和原生 Skill 集成支持 20+ 种 AI 助手。
+
+| 命令 | 描述 |
+|---------|------|
+| [`/opsx:propose`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxpropose) | 一步创建变更并生成规划产物 |
+| [`/opsx:explore`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxexplore) | 在提交变更前探索思路、调研问题 |
+| [`/opsx:apply`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxapply) | 执行变更中的任务清单 |
+| [`/opsx:sync`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxsync) | 将增量 Spec 合并到主 Spec |
+| [`/opsx:archive`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxarchive) | 归档已完成的变更 |
+| [`/opsx:verify`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxverify) | 验证实现与产物的一致性 |
+| [`/opsx:onboard`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxonboard) | 完整工作流的交互式引导教程 |
+
+**Schemas：** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven) · [`workspace-planning`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/workspace-planning)
+
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
 Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围编程"。小巧、可组合、模型无关。围绕四个失败模式构建：需求错位、输出冗长、代码出错、架构腐化。

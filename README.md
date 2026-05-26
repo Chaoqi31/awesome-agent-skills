@@ -24,6 +24,22 @@ An agentic skills framework and software development methodology that works acro
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Clean merge, verify, remove worktree, delete branch |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Detect-and-defer architecture for native harness worktree systems |
 
+### [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 50.9k ⭐
+
+The most loved spec framework. Spec-driven development (SDD) for AI coding assistants. Lightweight, iterative, and fluid — agree on what to build before any code is written. Works with 20+ AI assistants via slash commands and native skill integrations.
+
+| Command | Description |
+|---------|-------------|
+| [`/opsx:propose`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxpropose) | Create a change and generate planning artifacts in one step |
+| [`/opsx:explore`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxexplore) | Think through ideas before committing to a change |
+| [`/opsx:apply`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxapply) | Implement tasks from the change |
+| [`/opsx:sync`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxsync) | Merge delta specs into main specs |
+| [`/opsx:archive`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxarchive) | Archive a completed change |
+| [`/opsx:verify`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxverify) | Validate implementation matches artifacts |
+| [`/opsx:onboard`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxonboard) | Guided tutorial through the complete workflow |
+
+**Schemas:** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven) · [`workspace-planning`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/workspace-planning)
+
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
 Matt Pocock's daily-use agent skills for "real engineering — not vibe coding." Small, composable, and model-agnostic. Built around four failure modes: misalignment, verbosity, broken code, and architectural decay.
