@@ -86,6 +86,21 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 **工具：** 包含 Tkinter 桌面 GUI（`ecc_dashboard.py`）、Rust 控制平面原型（`ecc2/`）和带咨询模式的 CLI 安装器。
 
+### [impeccable](https://github.com/pbakaus/impeccable) · 34.6k ⭐
+
+让你的 AI 编程助手更擅长前端设计的 Skill。基于 Anthropic 原版 frontend-design 打造，包含 7 个设计领域参考文件（排版、色彩、空间、动效、交互、响应式、UX 文案）和 23 个设计命令（`audit`、`polish`、`critique`、`distill`、`animate` 等），以及 27 条确定性反模式规则。
+
+| 命令 | 描述 |
+|------|------|
+| [`/impeccable craft`](https://impeccable.cn/docs/) | 完整的形状→构建流程，带视觉迭代 |
+| [`/impeccable audit`](https://impeccable.cn/docs/) | 技术质量检查（无障碍、性能、响应式） |
+| [`/impeccable polish`](https://impeccable.cn/docs/) | 最终清理，设计系统对齐与上线准备 |
+| [`/impeccable critique`](https://impeccable.cn/docs/) | UX 设计评审：层级、清晰度、情感共鸣 |
+| [`/impeccable distill`](https://impeccable.cn/docs/) | 剥离冗余，回归本质 |
+| [`/impeccable animate`](https://impeccable.cn/docs/) | 添加有目的的动效 |
+
+**支持平台：** Claude Code、Codex CLI、Cursor、OpenCode、Gemini CLI、GitHub Copilot、Trae、Rovo Dev、Qoder 等 11+ 个 Harness。
+
 ### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
 
 为多个平台和框架构建专业 UI/UX 的 AI 设计智能 Skill。通过 AI 推理引擎自动生成完整的定制设计系统，包含 161 条规则、67 种视觉风格和 161 种配色方案。

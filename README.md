@@ -86,6 +86,21 @@ The agent harness performance optimization system. Not just skills — a complet
 
 **Tools:** Includes a Tkinter desktop GUI (`ecc_dashboard.py`), Rust control plane prototype (`ecc2/`), and CLI installer with consult mode.
 
+### [impeccable](https://github.com/pbakaus/impeccable) · 34.6k ⭐
+
+The design language that makes your AI harness better at frontend design. Built on Anthropic's original `frontend-design` skill with 7 domain references (typography, color, spatial, motion, interaction, responsive, UX writing), 23 commands (`audit`, `polish`, `critique`, `distill`, `animate`, etc.), and 27 deterministic anti-pattern rules.
+
+| Command | Description |
+|---------|-------------|
+| [`/impeccable craft`](https://impeccable.cn/docs/) | Full shape-then-build flow with visual iteration |
+| [`/impeccable audit`](https://impeccable.cn/docs/) | Technical quality checks (a11y, performance, responsive) |
+| [`/impeccable polish`](https://impeccable.cn/docs/) | Final pass, design system alignment, shipping readiness |
+| [`/impeccable critique`](https://impeccable.cn/docs/) | UX design review: hierarchy, clarity, emotional resonance |
+| [`/impeccable distill`](https://impeccable.cn/docs/) | Strip to essence |
+| [`/impeccable animate`](https://impeccable.cn/docs/) | Add purposeful motion |
+
+**Supported platforms:** Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, GitHub Copilot, Trae, Rovo Dev, Qoder, and 11+ harnesses.
+
 ### [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · 82.4k ⭐
 
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks. Generates complete, tailored design systems automatically through an AI-powered reasoning engine with 161 rules, 67 visual styles, and 161 color palettes.
