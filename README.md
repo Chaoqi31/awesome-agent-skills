@@ -86,6 +86,16 @@ The agent harness performance optimization system. Not just skills — a complet
 
 **Tools:** Includes a Tkinter desktop GUI (`ecc_dashboard.py`), Rust control plane prototype (`ecc2/`), and CLI installer with consult mode.
 
+### [TweetClaw](https://github.com/Xquik-dev/tweetclaw) · OpenClaw Plugin
+
+OpenClaw plugin and packaged skill for approval-gated X/Twitter workflows through Xquik. Helps agents scrape tweets, search tweet replies, export followers, look up users, handle media and DMs, create monitors and webhooks, run giveaway draws, and post or reply only after explicit confirmation.
+
+**Works with:** OpenClaw, Codex, Claude Code-compatible `SKILL.md` loaders.
+
+| Skill | Description |
+|-------|-------------|
+| [`tweetclaw`](https://github.com/Xquik-dev/tweetclaw/tree/master/skills/tweetclaw) | Safety-reviewed OpenClaw skill for setup, credential boundaries, endpoint discovery, private-data handling, and confirmation-gated X/Twitter actions |
+
 ### [impeccable](https://github.com/pbakaus/impeccable) · 34.6k ⭐
 
 The design language that makes your AI harness better at frontend design. Built on Anthropic's original `frontend-design` skill with 7 domain references (typography, color, spatial, motion, interaction, responsive, UX writing), 23 commands (`audit`, `polish`, `critique`, `distill`, `animate`, etc.), and 27 deterministic anti-pattern rules.
