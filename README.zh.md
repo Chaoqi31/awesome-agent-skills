@@ -86,6 +86,16 @@ Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操
 
 **工具：** 包含 Tkinter 桌面 GUI（`ecc_dashboard.py`）、Rust 控制平面原型（`ecc2/`）和带咨询模式的 CLI 安装器。
 
+### [TweetClaw](https://github.com/Xquik-dev/tweetclaw) · OpenClaw 插件
+
+通过 Xquik 提供需确认的 X/Twitter 工作流的 OpenClaw 插件和打包 Skill。帮助 Agent 抓取推文、搜索推文回复、导出关注者、查询用户、处理媒体和 DM、创建监控与 Webhook、执行抽奖，并且只在明确确认后发推或回复。
+
+**支持平台：** OpenClaw、Codex、兼容 `SKILL.md` 的 Claude Code 工作流。
+
+| Skill | 描述 |
+|-------|------|
+| [`tweetclaw`](https://github.com/Xquik-dev/tweetclaw/tree/master/skills/tweetclaw) | 面向 OpenClaw 的安全审查 Skill，覆盖安装、凭据边界、端点发现、私密数据处理和需确认的 X/Twitter 操作 |
+
 ### [impeccable](https://github.com/pbakaus/impeccable) · 34.6k ⭐
 
 让你的 AI 编程助手更擅长前端设计的 Skill。基于 Anthropic 原版 frontend-design 打造，包含 7 个设计领域参考文件（排版、色彩、空间、动效、交互、响应式、UX 文案）和 23 个设计命令（`audit`、`polish`、`critique`、`distill`、`animate` 等），以及 27 条确定性反模式规则。
