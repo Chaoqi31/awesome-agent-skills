@@ -57,6 +57,17 @@ Matt Pocock's daily-use agent skills for "real engineering — not vibe coding."
 | [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | State-machine-driven issue triage |
 | [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | System-level context for unfamiliar code |
 
+### [ax](https://github.com/Necmttn/ax) · 33 ⭐
+
+Local-first observability and memory for AI coding agents. It focuses on Claude Code and Codex, ingests Pi, OpenCode, and Cursor sessions, and includes skills for reconstructing shipped workflows, running retrospectives, and routing model-heavy work with evidence.
+
+| Skill | Description |
+|-------|-------------|
+| [`ax-extract-workflow`](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | Reconstruct how a past artifact shipped from ax sessions, commits, skills, and subagent traces |
+| [`retro`](https://github.com/Necmttn/ax/tree/main/skills/retro) | Guided retrospective over grounded proposals, pending verdicts, and hook signals |
+| [`dojo`](https://github.com/Necmttn/ax/tree/main/skills/dojo) | Turn surplus plan quota into self-improvement proposals, backtests, and reports |
+| [`efficient-dispatch`](https://github.com/Necmttn/ax/tree/main/skills/efficient-dispatch) | Route mechanical subagent work to cheaper models and verify savings with dispatch analytics |
+
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
 The agent harness performance optimization system. Not just skills — a complete operator system covering skills, instincts, memory optimization, continuous learning, security scanning, hooks, agents, rules, MCP configurations, and research-first development. Supports 12+ harnesses including Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot, and more.
