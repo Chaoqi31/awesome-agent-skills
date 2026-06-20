@@ -57,6 +57,17 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 —— 不是氛围�
 | [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | 状态机驱动的问题分类 |
 | [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | 为陌生代码提供系统级上下文 |
 
+### [ax](https://github.com/Necmttn/ax) · 33 ⭐
+
+面向 AI 编码代理的本地优先观测与记忆系统。它重点支持 Claude Code 和 Codex，并可摄取 Pi、OpenCode 和 Cursor 会话；内置 Skills 可用于复原已交付工作流、运行回顾，并用证据指导模型路由。
+
+| Skill | 描述 |
+|-------|------|
+| [`ax-extract-workflow`](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | 从 ax 会话、提交、Skills 和子代理轨迹中复原某个成果是如何交付的 |
+| [`retro`](https://github.com/Necmttn/ax/tree/main/skills/retro) | 围绕有证据支撑的改进建议、待确认结论和 hook 信号的引导式回顾 |
+| [`dojo`](https://github.com/Necmttn/ax/tree/main/skills/dojo) | 将剩余计划额度转成自改进提案、回测和报告 |
+| [`efficient-dispatch`](https://github.com/Necmttn/ax/tree/main/skills/efficient-dispatch) | 将机械子代理任务路由到更便宜的模型，并用调度分析验证节省 |
+
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
 Agent Harness 性能优化系统。不只是 Skills —— 是一个完整的操作系统，涵盖 Skills、Instincts、内存优化、持续学习、安全扫描、Hooks、Agents、Rules、MCP 配置和研究优先开发。支持 12+ 个 Harness，包括 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等。
