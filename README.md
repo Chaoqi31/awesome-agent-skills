@@ -38,7 +38,7 @@ The most loved spec framework. Spec-driven development (SDD) for AI coding assis
 | [`/opsx:verify`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxverify) | Validate implementation matches artifacts |
 | [`/opsx:onboard`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxonboard) | Guided tutorial through the complete workflow |
 
-**Schemas:** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven) · [`workspace-planning`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/workspace-planning)
+**Schema:** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven)
 
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
@@ -46,16 +46,16 @@ Matt Pocock's daily-use agent skills for "real engineering - not vibe coding." S
 
 | Skill | Description |
 |-------|-------------|
-| [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | Disciplined diagnosis loop for hard bugs and performance regressions |
+| [`diagnosing-bugs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs) | Disciplined diagnosis loop for hard bugs and performance regressions |
 | [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | Pre-build grilling sessions plus domain model alignment via `CONTEXT.md` |
 | [`grill-me`](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | Get relentlessly interviewed about a plan or design until every branch is resolved |
 | [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | Red-green-refactor TDD, one vertical slice at a time |
 | [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | Find "deepening opportunities" to rescue muddy codebases |
 | [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | One-time repo scaffold - configures issue tracker, triage labels, and docs directory |
-| [`to-prd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) | Synthesize conversation context into PRD, submit as GitHub issue |
-| [`to-issues`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) | Break plans/specs/PRDs into independently-grabbable GitHub issues |
+| [`to-spec`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-spec) | Synthesize conversation context into a specification and publish it to the issue tracker |
+| [`to-tickets`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-tickets) | Break plans and specifications into dependency-aware vertical tickets |
 | [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | State-machine-driven issue triage |
-| [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | System-level context for unfamiliar code |
+| [`wayfinder`](https://github.com/mattpocock/skills/tree/main/skills/engineering/wayfinder) | Map large efforts into decision tickets before implementation |
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
@@ -138,9 +138,11 @@ Nature-standard academic writing and figure generation skills. Each skill is gro
 | [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | Chinese PPTX decks generated from scientific papers |
 | [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | Multi-source literature search, citation verification, and reference management |
 
-### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 112 ⭐
+### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 155 ⭐
 
 Installable X/Twitter data skill for agents. It covers public X data lookup, extraction jobs, monitors, MCP, REST API access, and approval-gated write workflows through Xquik.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 | Skill | Description |
 |-------|-------------|

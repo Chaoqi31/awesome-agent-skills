@@ -38,7 +38,7 @@
 | [`/opsx:verify`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxverify) | 验证实现与产物的一致性 |
 | [`/opsx:onboard`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxonboard) | 完整工作流的交互式引导教程 |
 
-**Schemas：** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven) · [`workspace-planning`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/workspace-planning)
+**Schema：** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven)
 
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
@@ -46,16 +46,16 @@ Matt Pocock 的日常工程 Skills，用于"真正的工程 - 不是氛围编程
 
 | Skill | 描述 |
 |-------|------|
-| [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | 针对疑难 Bug 和性能回归的纪律性诊断循环 |
+| [`diagnosing-bugs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs) | 针对疑难 Bug 和性能回归的纪律性诊断循环 |
 | [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | 开发前深度问答 + 通过 `CONTEXT.md` 对齐领域模型 |
 | [`grill-me`](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | 针对计划或设计进行无情追问，直到每个决策分支都被解决 |
 | [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | 红绿重构 TDD，每次一个垂直切片 |
 | [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | 发现"深化机会"，拯救泥球代码库 |
 | [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | 一次性仓库脚手架 - 配置问题追踪器、分类标签和文档目录 |
-| [`to-prd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) | 将对话上下文合成为 PRD，作为 GitHub Issue 提交 |
-| [`to-issues`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) | 将计划/规格/PRD 拆分为可独立领取的 GitHub Issues |
+| [`to-spec`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-spec) | 将对话上下文整理成规格并发布到 Issue 追踪器 |
+| [`to-tickets`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-tickets) | 将计划和规格拆分为带依赖关系的垂直任务 |
 | [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | 状态机驱动的问题分类 |
-| [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | 为陌生代码提供系统级上下文 |
+| [`wayfinder`](https://github.com/mattpocock/skills/tree/main/skills/engineering/wayfinder) | 在实施前将大型工作拆解为决策任务地图 |
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
@@ -138,9 +138,11 @@ Agent Harness 性能优化系统。不只是 Skills - 是一个完整的操作�
 | [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | 从科研论文生成中文 PPTX 演示文稿 |
 | [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | 多源文献检索、引文验证和参考文献管理 |
 
-### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 112 ⭐
+### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 155 ⭐
 
 面向智能体的 X/Twitter 数据 Skill。支持公开 X 数据检索、批量提取、监控、MCP、REST API，并对写入流程要求明确审批。
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 | Skill | 描述 |
 |-------|------|
