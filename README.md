@@ -138,7 +138,7 @@ Nature-standard academic writing and figure generation skills. Each skill is gro
 | [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | Chinese PPTX decks generated from scientific papers |
 | [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | Multi-source literature search, citation verification, and reference management |
 
-### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 155 ⭐
+### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 156 ⭐
 
 Installable X/Twitter data skill for agents. It covers public X data lookup, extraction jobs, monitors, MCP, REST API access, and approval-gated write workflows through Xquik.
 

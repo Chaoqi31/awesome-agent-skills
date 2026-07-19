@@ -138,7 +138,7 @@ Agent Harness 性能优化系统。不只是 Skills - 是一个完整的操作�
 | [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | 从科研论文生成中文 PPTX 演示文稿 |
 | [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | 多源文献检索、引文验证和参考文献管理 |
 
-### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 155 ⭐
+### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 156 ⭐
 
 面向智能体的 X/Twitter 数据 Skill。支持公开 X 数据检索、批量提取、监控、MCP、REST API，并对写入流程要求明确审批。
 
