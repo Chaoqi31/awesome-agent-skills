@@ -4,7 +4,7 @@
 
 A hand-picked collection of the best community skills for AI coding agents. Each repository listed here has been tested and selected for its practical value in real-world development workflows.
 
-Looking for more? Browse the full ecosystem at [skills.sh](https://www.skills.sh/) — the open agent skills directory with 400K+ skills across 20+ platforms.
+Looking for more? Browse the full ecosystem at [skills.sh](https://www.skills.sh/) - the open agent skills directory with 400K+ skills across 20+ platforms.
 
 [中文版本](README.zh.md)
 
@@ -26,7 +26,7 @@ An agentic skills framework and software development methodology that works acro
 
 ### [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 50.9k ⭐
 
-The most loved spec framework. Spec-driven development (SDD) for AI coding assistants. Lightweight, iterative, and fluid — agree on what to build before any code is written. Works with 20+ AI assistants via slash commands and native skill integrations.
+The most loved spec framework. Spec-driven development (SDD) for AI coding assistants. Lightweight, iterative, and fluid - agree on what to build before any code is written. Works with 20+ AI assistants via slash commands and native skill integrations.
 
 | Command | Description |
 |---------|-------------|
@@ -38,28 +38,28 @@ The most loved spec framework. Spec-driven development (SDD) for AI coding assis
 | [`/opsx:verify`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxverify) | Validate implementation matches artifacts |
 | [`/opsx:onboard`](https://github.com/Fission-AI/OpenSpec/blob/main/docs/commands.md#opsxonboard) | Guided tutorial through the complete workflow |
 
-**Schemas:** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven) · [`workspace-planning`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/workspace-planning)
+**Schema:** [`spec-driven`](https://github.com/Fission-AI/OpenSpec/tree/main/schemas/spec-driven)
 
 ### [Skills For Real Engineers](https://github.com/mattpocock/skills) · 104k ⭐
 
-Matt Pocock's daily-use agent skills for "real engineering — not vibe coding." Small, composable, and model-agnostic. Built around four failure modes: misalignment, verbosity, broken code, and architectural decay.
+Matt Pocock's daily-use agent skills for "real engineering - not vibe coding." Small, composable, and model-agnostic. Built around four failure modes: misalignment, verbosity, broken code, and architectural decay.
 
 | Skill | Description |
 |-------|-------------|
-| [`diagnose`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) | Disciplined diagnosis loop for hard bugs and performance regressions |
+| [`diagnosing-bugs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs) | Disciplined diagnosis loop for hard bugs and performance regressions |
 | [`grill-with-docs`](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs) | Pre-build grilling sessions plus domain model alignment via `CONTEXT.md` |
 | [`grill-me`](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) | Get relentlessly interviewed about a plan or design until every branch is resolved |
 | [`tdd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) | Red-green-refactor TDD, one vertical slice at a time |
 | [`improve-codebase-architecture`](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) | Find "deepening opportunities" to rescue muddy codebases |
-| [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | One-time repo scaffold — configures issue tracker, triage labels, and docs directory |
-| [`to-prd`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) | Synthesize conversation context into PRD, submit as GitHub issue |
-| [`to-issues`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) | Break plans/specs/PRDs into independently-grabbable GitHub issues |
+| [`setup-matt-pocock-skills`](https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills) | One-time repo scaffold - configures issue tracker, triage labels, and docs directory |
+| [`to-spec`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-spec) | Synthesize conversation context into a specification and publish it to the issue tracker |
+| [`to-tickets`](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-tickets) | Break plans and specifications into dependency-aware vertical tickets |
 | [`triage`](https://github.com/mattpocock/skills/tree/main/skills/engineering/triage) | State-machine-driven issue triage |
-| [`zoom-out`](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) | System-level context for unfamiliar code |
+| [`wayfinder`](https://github.com/mattpocock/skills/tree/main/skills/engineering/wayfinder) | Map large efforts into decision tickets before implementation |
 
 ### [ecc](https://github.com/affaan-m/ecc) · 191k ⭐
 
-The agent harness performance optimization system. Not just skills — a complete operator system covering skills, instincts, memory optimization, continuous learning, security scanning, hooks, agents, rules, MCP configurations, and research-first development. Supports 12+ harnesses including Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot, and more.
+The agent harness performance optimization system. Not just skills - a complete operator system covering skills, instincts, memory optimization, continuous learning, security scanning, hooks, agents, rules, MCP configurations, and research-first development. Supports 12+ harnesses including Claude Code, Codex, Cursor, OpenCode, Gemini, Zed, GitHub Copilot, and more.
 
 | Component | Count | Description |
 |-----------|-------|-------------|
@@ -107,7 +107,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 
 | Skill | Description |
 |-------|-------------|
-| [`ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/src/ui-ux-pro-max) | Multi-domain design system generator — analyzes requirements and outputs complete pattern + style + colors + typography + anti-patterns in seconds |
+| [`ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/src/ui-ux-pro-max) | Multi-domain design system generator - analyzes requirements and outputs complete pattern + style + colors + typography + anti-patterns in seconds |
 
 ### [academic-research-skills](https://github.com/imbad0202/academic-research-skills) · 20.7k ⭐
 
@@ -120,7 +120,7 @@ The most comprehensive academic research skill set for Claude Code. A complete r
 | [`academic-reviewer`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-paper-reviewer) | 7-agent peer review simulation with calibration mode |
 | [`academic-pipeline`](https://github.com/imbad0202/academic-research-skills/tree/main/academic-pipeline) | 10-stage orchestrator from research to final publication with integrity gates at stage 2.5 and 4.5 |
 
-**Key Innovation:** L3 Claim-Faithfulness Audit — fetches cited sources and verifies every claim against its anchor, with 5 HIGH-WARN classes that gate-refuse unverified output.
+**Key Innovation:** L3 Claim-Faithfulness Audit - fetches cited sources and verifies every claim against its anchor, with 5 HIGH-WARN classes that gate-refuse unverified output.
 
 ### [nature-skills](https://github.com/Yuan1z0825/nature-skills) · 11.5k ⭐
 
@@ -138,6 +138,16 @@ Nature-standard academic writing and figure generation skills. Each skill is gro
 | [`nature-paper2ppt`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-paper2ppt) | Chinese PPTX decks generated from scientific papers |
 | [`nature-academic-search`](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-academic-search) | Multi-source literature search, citation verification, and reference management |
 
+### [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) · 156 ⭐
+
+Installable X/Twitter data skill for agents. It covers public X data lookup, extraction jobs, monitors, MCP, REST API access, and approval-gated write workflows through Xquik.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
+| Skill | Description |
+|-------|-------------|
+| [`x-twitter-scraper`](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) | Search tweets, inspect profiles, export followers, download media, monitor accounts or keywords, and use Xquik through MCP or REST API access |
+
 ---
 
 ## Contributing
@@ -152,6 +162,6 @@ Found a great skill? Open an issue or PR to add it!
 
 ## License
 
-This curation is released under [CC0 1.0 Universal](LICENSE) — feel free to copy, modify, and share.
+This curation is released under [CC0 1.0 Universal](LICENSE) - feel free to copy, modify, and share.
 
 Individual skills retain their original licenses (see respective repositories).
