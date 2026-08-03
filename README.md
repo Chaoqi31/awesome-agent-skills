@@ -24,6 +24,17 @@ An agentic skills framework and software development methodology that works acro
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Clean merge, verify, remove worktree, delete branch |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Detect-and-defer architecture for native harness worktree systems |
 
+### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) · 166 ⭐
+
+A 67-skill, MIT-licensed toolkit for Claude Code and Codex. It packages multi-agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows as reusable `SKILL.md` folders.
+
+| Skill | Description |
+|-------|-------------|
+| [`suede-agent-teams`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-agent-teams) | Coordinate multi-agent work with explicit ownership and review gates |
+| [`suede-codex-fleet`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-codex-fleet) | Brief, spawn, and review parallel Codex CLI workers |
+| [`suede-code-review`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-code-review) | Run structured code review with severity-ranked findings |
+| [`suede-ai-eval`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-ai-eval) | Design and audit evaluation strategies for AI features |
+
 ### [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 50.9k ⭐
 
 The most loved spec framework. Spec-driven development (SDD) for AI coding assistants. Lightweight, iterative, and fluid — agree on what to build before any code is written. Works with 20+ AI assistants via slash commands and native skill integrations.

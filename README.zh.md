@@ -24,6 +24,17 @@
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | 干净合并、验证、移除 worktree、删除分支 |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
+### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) · 166 ⭐
+
+面向 Claude Code 与 Codex 的 67 个 MIT 授权 Skills。以可复用的 `SKILL.md` 目录封装多 Agent 编排、Codex 工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长工作流。
+
+| Skill | 描述 |
+|-------|------|
+| [`suede-agent-teams`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-agent-teams) | 通过明确的职责划分和审查门槛协调多 Agent 工作 |
+| [`suede-codex-fleet`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-codex-fleet) | 编写任务简报、启动并审查并行 Codex CLI 工作节点 |
+| [`suede-code-review`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-code-review) | 按严重级别输出结构化代码审查结果 |
+| [`suede-ai-eval`](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-ai-eval) | 为 AI 功能设计和审计评测策略 |
+
 ### [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 50.9k ⭐
 
 最受欢迎的 Spec 框架。面向 AI 编程助手的 Spec-Driven Development（SDD）。轻量、迭代、流畅 —— 在写任何代码前先对齐需求。通过斜杠命令和原生 Skill 集成支持 20+ 种 AI 助手。
