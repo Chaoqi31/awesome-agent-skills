@@ -24,9 +24,9 @@
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | 干净合并、验证、移除 worktree、删除分支 |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | 检测-委托架构，优先使用原生 harness worktree 系统 |
 
-### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) · 166 ⭐
+### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills)
 
-面向 Claude Code 与 Codex 的 67 个 MIT 授权 Skills。以可复用的 `SKILL.md` 目录封装多 Agent 编排、Codex 工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长工作流。
+面向 Claude Code 与 Codex 的 MIT 授权 Skills 合集。以可复用的 `SKILL.md` 目录封装多 Agent 编排、Codex 工作节点集群、代码审查与发布门槛、AI 评测、产品、设计和增长工作流。
 
 | Skill | 描述 |
 |-------|------|

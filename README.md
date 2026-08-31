@@ -24,9 +24,9 @@ An agentic skills framework and software development methodology that works acro
 | [`finishing-a-development-branch`](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Clean merge, verify, remove worktree, delete branch |
 | [`using-git-worktrees`](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Detect-and-defer architecture for native harness worktree systems |
 
-### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) · 166 ⭐
+### [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills)
 
-A 67-skill, MIT-licensed toolkit for Claude Code and Codex. It packages multi-agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows as reusable `SKILL.md` folders.
+An open-source, MIT-licensed toolkit for Claude Code and Codex. It packages multi-agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows as reusable `SKILL.md` folders.
 
 | Skill | Description |
 |-------|-------------|
